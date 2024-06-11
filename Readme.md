@@ -17,7 +17,7 @@ ip 10.0.20.1/24 10.0.20.254
 save
 ```
 
-#### SW0
+#### [SW0](cfg/SW0.txt)
 ```
 enable
 configure terminal
@@ -43,7 +43,7 @@ exit
 write memory
 ```
 
-#### SW1
+#### [SW1](cfg/SW1.txt)
 ```
 enable
 configure terminal
@@ -63,7 +63,7 @@ exit
 write memory
 ```
 
-#### SW2
+#### [SW2](cfg/SW2.txt)
 ```
 enable
 configure terminal
@@ -83,7 +83,7 @@ exit
 write memory
 ```
 
-#### R1
+#### [R1](cfg/R1.txt)
 ```
 enable
 configure terminal
